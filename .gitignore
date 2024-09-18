@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+scraper.log
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# JSON output file
+portman_park_results.json
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env

@@ -1,0 +1,1727 @@
+[
+  {
+    "title": "12:24 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "1224",
+    "info": "12:24  • R69 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "ATLANTIC PRAWN",
+        "runner_number": "2",
+        "odds": "6/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "BOTHERED",
+        "runner_number": "5",
+        "odds": "4/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "BRONZE DOOR",
+        "runner_number": "6",
+        "odds": "9/2"
+      }
+    ]
+  },
+  {
+    "title": "12:07 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "1207",
+    "info": "12:07  • R68 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "ONLY ORACLE",
+        "runner_number": "5",
+        "odds": "4/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "BLUE GARLAND",
+        "runner_number": "2",
+        "odds": "5/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "FOUR EMPERORS",
+        "runner_number": "3",
+        "odds": "11/1"
+      }
+    ]
+  },
+  {
+    "title": "11:50 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "1150",
+    "info": "11:50  • R67 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "MYRTLE WARBLER",
+        "runner_number": "1",
+        "odds": "3/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "SATIN VIVA",
+        "runner_number": "8",
+        "odds": "14/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "CHANCERY ROAD",
+        "runner_number": "10",
+        "odds": "4/1"
+      }
+    ]
+  },
+  {
+    "title": "11:35 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "1135",
+    "info": "11:35  • R66 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "MY ANTONIA",
+        "runner_number": "1",
+        "odds": "10/3"
+      },
+      {
+        "position": "2",
+        "runner_name": "FRIED BREAKFAST",
+        "runner_number": "14",
+        "odds": "13/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "SINGLE PROFILE",
+        "runner_number": "12",
+        "odds": "13/2"
+      }
+    ]
+  },
+  {
+    "title": "11:16 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "1116",
+    "info": "11:16  • R65 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "ELKO",
+        "runner_number": "1",
+        "odds": "10/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "TIGHT CROP",
+        "runner_number": "14",
+        "odds": "40/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "COMET CRASH",
+        "runner_number": "13",
+        "odds": "25/1"
+      }
+    ]
+  },
+  {
+    "title": "11:00 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "1100",
+    "info": "11:00  • R64 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "FREMANTLE PORT",
+        "runner_number": "5",
+        "odds": "50/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "BRIEF STAY",
+        "runner_number": "9",
+        "odds": "15/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "FIRE LAKE",
+        "runner_number": "7",
+        "odds": "5/1"
+      }
+    ]
+  },
+  {
+    "title": "10:51 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "1051",
+    "info": "10:51  • R63 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "HILL OF TIME",
+        "runner_number": "9",
+        "odds": "5/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "HIGH TOPS",
+        "runner_number": "2",
+        "odds": "11/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "LEG PULL",
+        "runner_number": "11",
+        "odds": "16/1"
+      }
+    ]
+  },
+  {
+    "title": "10:37 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "1037",
+    "info": "10:37  • R62 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "EARL RALPH",
+        "runner_number": "19",
+        "odds": "10/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "FOUND OBJECT",
+        "runner_number": "1",
+        "odds": "16/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "EARL SHILTON",
+        "runner_number": "5",
+        "odds": "18/1"
+      }
+    ]
+  },
+  {
+    "title": "10:28 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "1028",
+    "info": "10:28  • R61 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "KOOL KID WOLF",
+        "runner_number": "11",
+        "odds": "5/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "ECLECTIC TIMES",
+        "runner_number": "16",
+        "odds": "9/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "GREAT SURGE",
+        "runner_number": "14",
+        "odds": "16/1"
+      }
+    ]
+  },
+  {
+    "title": "10:19 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "1019",
+    "info": "10:19  • R60 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "ADD IRON",
+        "runner_number": "1",
+        "odds": "11/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "QUARRY LAD",
+        "runner_number": "12",
+        "odds": "20/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "CHIMNEY SWEEP",
+        "runner_number": "8",
+        "odds": "15/2"
+      }
+    ]
+  },
+  {
+    "title": "10:10 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "1010",
+    "info": "10:10  • R59 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "STEAM PILOT",
+        "runner_number": "1",
+        "odds": "25/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "CANYON WREN",
+        "runner_number": "14",
+        "odds": "9/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "DAUPHIN ISLAND",
+        "runner_number": "9",
+        "odds": "10/1"
+      }
+    ]
+  },
+  {
+    "title": "10:01 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "1001",
+    "info": "10:01  • R58 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "JOHN BUNYAN",
+        "runner_number": "3",
+        "odds": "4/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "WHAT FORD",
+        "runner_number": "11",
+        "odds": "10/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "BUS DRIVER",
+        "runner_number": "7",
+        "odds": "6/1"
+      }
+    ]
+  },
+  {
+    "title": "09:49 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0949",
+    "info": "09:49  • R57 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "POLYGON SURPRISE",
+        "runner_number": "4",
+        "odds": "80/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "JOHNSTON JOLLY",
+        "runner_number": "7",
+        "odds": "9/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "CAROLINE AFFAIR",
+        "runner_number": "5",
+        "odds": "14/1"
+      }
+    ]
+  },
+  {
+    "title": "09:34 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0934",
+    "info": "09:34  • R56 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "PERSPEX CURTAIN",
+        "runner_number": "2",
+        "odds": "25/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "NOBBY NORSEMAN",
+        "runner_number": "20",
+        "odds": "33/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "BIG KELV",
+        "runner_number": "13",
+        "odds": "10/1"
+      }
+    ]
+  },
+  {
+    "title": "09:19 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0919",
+    "info": "09:19  • R55 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "BUCKEYE BLUE",
+        "runner_number": "20",
+        "odds": "9/2"
+      },
+      {
+        "position": "2",
+        "runner_name": "ZOEY BOEY",
+        "runner_number": "17",
+        "odds": "9/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "OAKHAM FLAGSHIP",
+        "runner_number": "8",
+        "odds": "12/1"
+      }
+    ]
+  },
+  {
+    "title": "09:04 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0904",
+    "info": "09:04  • R54 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "WILD KING",
+        "runner_number": "6",
+        "odds": "15/2"
+      },
+      {
+        "position": "2",
+        "runner_name": "THE ALEX",
+        "runner_number": "15",
+        "odds": "18/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "RIGBY STAR",
+        "runner_number": "21",
+        "odds": "100/1"
+      }
+    ]
+  },
+  {
+    "title": "08:49 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0849",
+    "info": "08:49  • R53 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "QUABBS QUEEN",
+        "runner_number": "11",
+        "odds": "28/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "OLIVINE",
+        "runner_number": "20",
+        "odds": "13/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "NEW REALIST",
+        "runner_number": "14",
+        "odds": "5/1"
+      }
+    ]
+  },
+  {
+    "title": "08:34 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0834",
+    "info": "08:34  • R52 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "MOSQUITO CREEK",
+        "runner_number": "9",
+        "odds": "4/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "PURE STREAM",
+        "runner_number": "3",
+        "odds": "9/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "ABBERLEY COMMON",
+        "runner_number": "5",
+        "odds": "22/1"
+      }
+    ]
+  },
+  {
+    "title": "08:19 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0819",
+    "info": "08:19  • R51 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "CHICKEN CURRY",
+        "runner_number": "4",
+        "odds": "9/2"
+      },
+      {
+        "position": "2",
+        "runner_name": "CHURCH COLLECT",
+        "runner_number": "7",
+        "odds": "11/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "DROP ME OUT",
+        "runner_number": "3",
+        "odds": "9/1"
+      }
+    ]
+  },
+  {
+    "title": "08:04 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0804",
+    "info": "08:04  • R50 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "DRAGON FRUIT",
+        "runner_number": "2",
+        "odds": "40/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "SAVOY BOOGIE",
+        "runner_number": "6",
+        "odds": "13/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "BUSTER BEATS",
+        "runner_number": "7",
+        "odds": "5/1"
+      }
+    ]
+  },
+  {
+    "title": "07:22 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0722",
+    "info": "07:22  • R49 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "REALLY ROUGE",
+        "runner_number": "11",
+        "odds": "12/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "GRAYS INN COURT",
+        "runner_number": "19",
+        "odds": "50/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "CENSOR RAP",
+        "runner_number": "14",
+        "odds": "16/1"
+      }
+    ]
+  },
+  {
+    "title": "07:13 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0713",
+    "info": "07:13  • R48 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "DIANAS MIRROR",
+        "runner_number": "5",
+        "odds": "8/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "CLARES STAR",
+        "runner_number": "10",
+        "odds": "9/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "BEN STREAK",
+        "runner_number": "11",
+        "odds": "15/2"
+      }
+    ]
+  },
+  {
+    "title": "07:04 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0704",
+    "info": "07:04  • R47 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "FLAXMAN",
+        "runner_number": "11",
+        "odds": "8/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "CEDAR STREAM",
+        "runner_number": "18",
+        "odds": "10/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "DUCK FEATHER",
+        "runner_number": "14",
+        "odds": "22/1"
+      }
+    ]
+  },
+  {
+    "title": "06:55 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0655",
+    "info": "06:55  • R46 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "MERYNS BOY",
+        "runner_number": "9",
+        "odds": "7/2"
+      },
+      {
+        "position": "2",
+        "runner_name": "TERRACOTTA FIX",
+        "runner_number": "3",
+        "odds": "6/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "GEAR CHANGE",
+        "runner_number": "7",
+        "odds": "10/3"
+      }
+    ]
+  },
+  {
+    "title": "06:46 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0646",
+    "info": "06:46  • R45 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "CHUCKS AWAY",
+        "runner_number": "2",
+        "odds": "4/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "FIXATIVE",
+        "runner_number": "6",
+        "odds": "6/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "SIGNIFICANT FORM",
+        "runner_number": "3",
+        "odds": "15/2"
+      }
+    ]
+  },
+  {
+    "title": "06:37 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0637",
+    "info": "06:37  • R44 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "FRANS FACE",
+        "runner_number": "2",
+        "odds": "4/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "BUDDIES",
+        "runner_number": "8",
+        "odds": "4/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "ARIZONA MYOTIS",
+        "runner_number": "6",
+        "odds": "9/2"
+      }
+    ]
+  },
+  {
+    "title": "06:28 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0628",
+    "info": "06:28  • R43 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "CAR WASH",
+        "runner_number": "9",
+        "odds": "10/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "BASIC STORY",
+        "runner_number": "6",
+        "odds": "25/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "DON BRADMAN",
+        "runner_number": "21",
+        "odds": "9/1"
+      }
+    ]
+  },
+  {
+    "title": "06:19 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0619",
+    "info": "06:19  • R42 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "GREEK VINE",
+        "runner_number": "4",
+        "odds": "9/2"
+      },
+      {
+        "position": "2",
+        "runner_name": "NARROW ROAD",
+        "runner_number": "11",
+        "odds": "6/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "WALL MIRROR",
+        "runner_number": "8",
+        "odds": "16/1"
+      }
+    ]
+  },
+  {
+    "title": "06:10 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0610",
+    "info": "06:10  • R41 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "ALPINE CHIPMUNK",
+        "runner_number": "2",
+        "odds": "14/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "GRANITE GIANT",
+        "runner_number": "16",
+        "odds": "12/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "CHIP CAPE COD",
+        "runner_number": "5",
+        "odds": "10/1"
+      }
+    ]
+  },
+  {
+    "title": "06:01 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0601",
+    "info": "06:01  • R40 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "SUPER REAL",
+        "runner_number": "1",
+        "odds": "7/2"
+      },
+      {
+        "position": "2",
+        "runner_name": "EVER REDDY",
+        "runner_number": "2",
+        "odds": "3/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "EGOR FLYER",
+        "runner_number": "9",
+        "odds": "8/1"
+      }
+    ]
+  },
+  {
+    "title": "05:52 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0552",
+    "info": "05:52  • R39 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "ACTON HEIGHTS",
+        "runner_number": "9",
+        "odds": "10/3"
+      },
+      {
+        "position": "2",
+        "runner_name": "VANZETTI",
+        "runner_number": "7",
+        "odds": "4/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "CATFISH KIETH",
+        "runner_number": "10",
+        "odds": "8/1"
+      }
+    ]
+  },
+  {
+    "title": "05:43 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0543",
+    "info": "05:43  • R38 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "FORT WAYNE",
+        "runner_number": "5",
+        "odds": "8/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "TEEJAY TROUBLE",
+        "runner_number": "2",
+        "odds": "5/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "SUPERHERO BOY",
+        "runner_number": "7",
+        "odds": "11/4"
+      }
+    ]
+  },
+  {
+    "title": "05:34 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0534",
+    "info": "05:34  • R37 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "GO KHARTOUM",
+        "runner_number": "9",
+        "odds": "33/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "MIXED METHOD",
+        "runner_number": "11",
+        "odds": "11/4"
+      },
+      {
+        "position": "3",
+        "runner_name": "JOHNNY ROADSTER",
+        "runner_number": "13",
+        "odds": "8/1"
+      }
+    ]
+  },
+  {
+    "title": "05:25 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0525",
+    "info": "05:25  • R36 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "BOTTLE CAP",
+        "runner_number": "8",
+        "odds": "8/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "PHIL FIORINI",
+        "runner_number": "6",
+        "odds": "12/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "PICTURE PLANE",
+        "runner_number": "5",
+        "odds": "12/1"
+      }
+    ]
+  },
+  {
+    "title": "05:16 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0516",
+    "info": "05:16  • R35 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "FRENCH FOIL",
+        "runner_number": "7",
+        "odds": "28/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "CORAL FINGERS",
+        "runner_number": "17",
+        "odds": "12/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "SUMO SENATOR",
+        "runner_number": "13",
+        "odds": "25/1"
+      }
+    ]
+  },
+  {
+    "title": "05:07 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0507",
+    "info": "05:07  • R34 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "COCKLE PARK",
+        "runner_number": "10",
+        "odds": "9/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "MAKE A CHASER",
+        "runner_number": "7",
+        "odds": "13/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "CHEESE SARNIE",
+        "runner_number": "8",
+        "odds": "33/1"
+      }
+    ]
+  },
+  {
+    "title": "04:58 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0458",
+    "info": "04:58  • R33 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "MAN YOU",
+        "runner_number": "11",
+        "odds": "13/2"
+      },
+      {
+        "position": "2",
+        "runner_name": "KAROA",
+        "runner_number": "6",
+        "odds": "9/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "LOST EPIC",
+        "runner_number": "5",
+        "odds": "11/2"
+      }
+    ]
+  },
+  {
+    "title": "04:49 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0449",
+    "info": "04:49  • R32 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "EGGY BREAD",
+        "runner_number": "9",
+        "odds": "16/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "CRÈME BRULEE",
+        "runner_number": "13",
+        "odds": "22/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "SAPPHIRE TUNE",
+        "runner_number": "4",
+        "odds": "5/1"
+      }
+    ]
+  },
+  {
+    "title": "04:40 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0440",
+    "info": "04:40  • R31 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "POSITIVE MAN",
+        "runner_number": "13",
+        "odds": "8/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "MAD ABOUT COMICS",
+        "runner_number": "15",
+        "odds": "28/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "LACASAIGH",
+        "runner_number": "3",
+        "odds": "9/1"
+      }
+    ]
+  },
+  {
+    "title": "04:31 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0431",
+    "info": "04:31  • R30 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "DAVEY JONES",
+        "runner_number": "8",
+        "odds": "16/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "ARCTIC MONKEY",
+        "runner_number": "13",
+        "odds": "6/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "KNOCK KNOCK",
+        "runner_number": "10",
+        "odds": "20/1"
+      }
+    ]
+  },
+  {
+    "title": "04:22 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0422",
+    "info": "04:22  • R29 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "LONESOME AFFAIR",
+        "runner_number": "13",
+        "odds": "5/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "LUGTON RUN",
+        "runner_number": "10",
+        "odds": "15/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "ICE BAR",
+        "runner_number": "12",
+        "odds": "14/1"
+      }
+    ]
+  },
+  {
+    "title": "04:13 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0413",
+    "info": "04:13  • R28 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "ITALIAN HERBS",
+        "runner_number": "2",
+        "odds": "15/2"
+      },
+      {
+        "position": "2",
+        "runner_name": "VENUS BIGHT",
+        "runner_number": "12",
+        "odds": "6/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "STATE DIVISION",
+        "runner_number": "3",
+        "odds": "25/1"
+      }
+    ]
+  },
+  {
+    "title": "04:04 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0404",
+    "info": "04:04  • R27 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "SEPIA FINISH",
+        "runner_number": "4",
+        "odds": "12/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "CHEEVER RABBIT",
+        "runner_number": "6",
+        "odds": "8/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "FASTNET RACE",
+        "runner_number": "20",
+        "odds": "10/1"
+      }
+    ]
+  },
+  {
+    "title": "03:55 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0355",
+    "info": "03:55  • R26 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "ONLY PLAYING",
+        "runner_number": "3",
+        "odds": "16/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "BOP AND DROP",
+        "runner_number": "17",
+        "odds": "9/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "OAKFIELDS STORM",
+        "runner_number": "13",
+        "odds": "7/2"
+      }
+    ]
+  },
+  {
+    "title": "03:46 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0346",
+    "info": "03:46  • R25 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "LETS EMIGRATE",
+        "runner_number": "14",
+        "odds": "10/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "WILLIAM WARRIOR",
+        "runner_number": "8",
+        "odds": "13/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "OSKA KOKOCHKA",
+        "runner_number": "6",
+        "odds": "8/1"
+      }
+    ]
+  },
+  {
+    "title": "03:37 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0337",
+    "info": "03:37  • R24 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "BIT OF A RASCAL",
+        "runner_number": "3",
+        "odds": "3/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "GREAT JAMES",
+        "runner_number": "6",
+        "odds": "8/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "WEARY BLUES",
+        "runner_number": "2",
+        "odds": "9/4"
+      }
+    ]
+  },
+  {
+    "title": "03:28 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0328",
+    "info": "03:28  • R23 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "WEST BEND",
+        "runner_number": "5",
+        "odds": "7/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "CORDIAL SUCCESS",
+        "runner_number": "2",
+        "odds": "11/4"
+      },
+      {
+        "position": "3",
+        "runner_name": "OWEN SOUND",
+        "runner_number": "1",
+        "odds": "6/1"
+      }
+    ]
+  },
+  {
+    "title": "03:19 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0319",
+    "info": "03:19  • R22 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "OPOSSUM",
+        "runner_number": "6",
+        "odds": "20/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "FRIED BREAKFAST",
+        "runner_number": "3",
+        "odds": "6/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "LUCIAN LEGEND",
+        "runner_number": "11",
+        "odds": "11/1"
+      }
+    ]
+  },
+  {
+    "title": "03:10 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0310",
+    "info": "03:10  • R21 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "DOREENS DREAM",
+        "runner_number": "7",
+        "odds": "16/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "BANTAMS",
+        "runner_number": "3",
+        "odds": "8/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "COMPLEX ACTION",
+        "runner_number": "9",
+        "odds": "9/4"
+      }
+    ]
+  },
+  {
+    "title": "03:01 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0301",
+    "info": "03:01  • R20 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "POETS WEEKEND",
+        "runner_number": "9",
+        "odds": "6/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "RACKENFORD ROY",
+        "runner_number": "6",
+        "odds": "12/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "ANHINGA DINGA",
+        "runner_number": "1",
+        "odds": "16/1"
+      }
+    ]
+  },
+  {
+    "title": "02:52 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0252",
+    "info": "02:52  • R19 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "MOON POET",
+        "runner_number": "6",
+        "odds": "6/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "WEST END SHOW",
+        "runner_number": "1",
+        "odds": "15/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "BIG EARS",
+        "runner_number": "10",
+        "odds": "22/1"
+      }
+    ]
+  },
+  {
+    "title": "02:43 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0243",
+    "info": "02:43  • R18 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "BRISTOL BLUE",
+        "runner_number": "19",
+        "odds": "12/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "FROBRISHER",
+        "runner_number": "3",
+        "odds": "18/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "MARMOT STAND",
+        "runner_number": "7",
+        "odds": "80/1"
+      }
+    ]
+  },
+  {
+    "title": "02:34 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0234",
+    "info": "02:34  • R17 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "HIGH TOPS",
+        "runner_number": "2",
+        "odds": "9/2"
+      },
+      {
+        "position": "2",
+        "runner_name": "CHEETAHS RUN",
+        "runner_number": "8",
+        "odds": "14/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "EUBIE BLAKE",
+        "runner_number": "7",
+        "odds": "7/1"
+      }
+    ]
+  },
+  {
+    "title": "02:25 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0225",
+    "info": "02:25  • R16 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "KOOL KID WOLF",
+        "runner_number": "14",
+        "odds": "5/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "ALDGATE WINNER",
+        "runner_number": "4",
+        "odds": "25/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "JUNOS STORY",
+        "runner_number": "5",
+        "odds": "12/1"
+      }
+    ]
+  },
+  {
+    "title": "02:16 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0216",
+    "info": "02:16  • R15 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "WELSHMAN",
+        "runner_number": "2",
+        "odds": "10/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "WHIZZY IZZY",
+        "runner_number": "5",
+        "odds": "11/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "ORPHEUS LIST",
+        "runner_number": "16",
+        "odds": "9/1"
+      }
+    ]
+  },
+  {
+    "title": "02:07 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0207",
+    "info": "02:07  • R14 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "BIG KELV",
+        "runner_number": "3",
+        "odds": "9/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "HUXLEYPIG",
+        "runner_number": "15",
+        "odds": "4/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "JOHNSTON JOLLY",
+        "runner_number": "2",
+        "odds": "8/1"
+      }
+    ]
+  },
+  {
+    "title": "01:58 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0158",
+    "info": "01:58  • R13 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "WILD KING",
+        "runner_number": "6",
+        "odds": "9/2"
+      },
+      {
+        "position": "2",
+        "runner_name": "LADY BUCARELLI",
+        "runner_number": "8",
+        "odds": "5/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "KING MINOS",
+        "runner_number": "9",
+        "odds": "9/1"
+      }
+    ]
+  },
+  {
+    "title": "01:49 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0149",
+    "info": "01:49  • R12 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "BOTHERED",
+        "runner_number": "8",
+        "odds": "9/2"
+      },
+      {
+        "position": "2",
+        "runner_name": "HALES PACE STAR",
+        "runner_number": "5",
+        "odds": "15/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "PAUL CEZANNE",
+        "runner_number": "10",
+        "odds": "9/1"
+      }
+    ]
+  },
+  {
+    "title": "01:40 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0140",
+    "info": "01:40  • R11 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "OAKHAM FLAGSHIP",
+        "runner_number": "18",
+        "odds": "10/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "LUNA LEAF",
+        "runner_number": "16",
+        "odds": "18/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "LAWN MOWER",
+        "runner_number": "2",
+        "odds": "20/1"
+      }
+    ]
+  },
+  {
+    "title": "01:31 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0131",
+    "info": "01:31  • R10 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "ORDNANCE SIR",
+        "runner_number": "2",
+        "odds": "25/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "BRIEF STAY",
+        "runner_number": "9",
+        "odds": "6/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "FOO FIGHTER",
+        "runner_number": "1",
+        "odds": "10/3"
+      }
+    ]
+  },
+  {
+    "title": "01:22 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0122",
+    "info": "01:22  • R9 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "JOHN BUNYAN",
+        "runner_number": "5",
+        "odds": "11/4"
+      },
+      {
+        "position": "2",
+        "runner_name": "LAY ON AKRON",
+        "runner_number": "7",
+        "odds": "12/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "OLIVINE",
+        "runner_number": "6",
+        "odds": "11/2"
+      }
+    ]
+  },
+  {
+    "title": "01:13 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0113",
+    "info": "01:13  • R8 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "VIRGIL DASH",
+        "runner_number": "2",
+        "odds": "12/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "TYKES",
+        "runner_number": "13",
+        "odds": "16/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "KEY LADY",
+        "runner_number": "18",
+        "odds": "40/1"
+      }
+    ]
+  },
+  {
+    "title": "01:04 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0104",
+    "info": "01:04  • R7 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "CUBIST MOVER",
+        "runner_number": "5",
+        "odds": "16/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "MYRTLE WARBLER",
+        "runner_number": "1",
+        "odds": "7/2"
+      },
+      {
+        "position": "3",
+        "runner_name": "BARNARD CASTLE",
+        "runner_number": "16",
+        "odds": "11/2"
+      }
+    ]
+  },
+  {
+    "title": "00:55 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0055",
+    "info": "00:55  • R6 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "KNUCKLE STYLE",
+        "runner_number": "3",
+        "odds": "9/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "BUFFALO PLAIN",
+        "runner_number": "10",
+        "odds": "10/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "THE BLADES",
+        "runner_number": "9",
+        "odds": "12/1"
+      }
+    ]
+  },
+  {
+    "title": "00:46 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0046",
+    "info": "00:46  • R5 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "DADS TAXI",
+        "runner_number": "10",
+        "odds": "7/2"
+      },
+      {
+        "position": "2",
+        "runner_name": "CENSOR RAP",
+        "runner_number": "8",
+        "odds": "10/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "HIBEES",
+        "runner_number": "12",
+        "odds": "8/1"
+      }
+    ]
+  },
+  {
+    "title": "00:37 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0037",
+    "info": "00:37  • R4 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "ED DEGAS",
+        "runner_number": "2",
+        "odds": "14/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "KHARAMEL",
+        "runner_number": "6",
+        "odds": "28/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "MOSQUITO CREEK",
+        "runner_number": "11",
+        "odds": "10/3"
+      }
+    ]
+  },
+  {
+    "title": "00:28 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0028",
+    "info": "00:28  • R3 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "APE SAVINGS",
+        "runner_number": "19",
+        "odds": "6/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "ADD IRON",
+        "runner_number": "1",
+        "odds": "12/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "CANORPHIC",
+        "runner_number": "10",
+        "odds": "14/1"
+      }
+    ]
+  },
+  {
+    "title": "00:19 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0019",
+    "info": "00:19  • R2 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "PLAIN AIR",
+        "runner_number": "16",
+        "odds": "12/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "OVERNIGHT CALL",
+        "runner_number": "4",
+        "odds": "25/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "MONKEY BIZZ",
+        "runner_number": "7",
+        "odds": "25/1"
+      }
+    ]
+  },
+  {
+    "title": "00:10 - PORTMAN PARK, HANDICAP FLAT",
+    "id": "0010",
+    "info": "00:10  • R1 • Today",
+    "results": [
+      {
+        "position": "1",
+        "runner_name": "FETTUCINI",
+        "runner_number": "10",
+        "odds": "8/1"
+      },
+      {
+        "position": "2",
+        "runner_name": "VANNEVAR",
+        "runner_number": "14",
+        "odds": "9/1"
+      },
+      {
+        "position": "3",
+        "runner_name": "WEDONTGETLUNCH",
+        "runner_number": "7",
+        "odds": "11/2"
+      }
+    ]
+  }
+]
